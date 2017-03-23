@@ -1,0 +1,122 @@
+﻿[
+  {
+    "id": 1,
+    "price": null,
+    "dish": "SNACKS"
+  },
+  {
+    "id": 2,
+    "price": 5.70,
+    "dish": "Ongepelde grijze garnaal"
+  },
+  {
+    "id": 3,
+    "price": 4.50,
+    "dish": "Radijs met kaascrème"
+  },
+  {
+    "id": 4,
+    "price": 14.50,
+    "dish": "Melkkoe 'Gelderse lende'"
+  },
+  {
+    "id": 5,
+    "price": null,
+    "dish": "VOORGERECHTEN"
+  },
+  {
+    "id": 6,
+    "price": 5.80,
+    "dish": "Dagsoep"
+  },
+  {
+    "id": 7,
+    "price": 14.50,
+    "dish": "Tomaat met garnaal en groene kruiden"
+  },
+  {
+    "id": 8,
+    "price": 15.50,
+    "dish": "Steak tartaar"
+  },
+  {
+    "id": 9,
+    "price": null,
+    "dish": "HOOFDGERECHTEN"
+  },
+  {
+    "id": 10,
+    "price": 19.00,
+    "dish": "Vol au vent met friet"
+  },
+  {
+    "id": 11,
+    "price": 22.00,
+    "dish": "Varkensnek met bloemkool, peterselie, citroen, puree en look"
+  },
+  {
+    "id": 12,
+    "price": 19.50,
+    "dish": "Steak tartaar met friet"
+  },
+  {
+    "id": 13,
+    "price": 19.00,
+    "dish": "Rundstoverij met friet"
+  },
+  {
+    "id": 14,
+    "price": 25.50,
+    "dish": "Entrecôte met komkommer, kropsla, bearnaise en friet"
+  },
+  {
+    "id": 15,
+    "price": null,
+    "dish": "DESSERTS"
+  },
+  {
+    "id": 16,
+    "price": 9.00,
+    "dish": "Dame blance"
+  },
+  {
+    "id": 17,
+    "price": 8.00,
+    "dish": "Rijstpap met bastogne"
+  },
+  {
+    "id": 18,
+    "price": 12.50,
+    "dish": "Kazen 'Van Tricht'"
+  },
+  {
+    "id": 19,
+    "price": null,
+    "dish": "LUNCH"
+  },
+  {
+    "id": 20,
+    "price": 9.50,
+    "dish": "Croque 'De Natie' met brie, spek en een spiegelei"
+  },
+  {
+    "id": 21,
+    "price": 7.00,
+    "dish": "Croque monsieur"
+  },
+  {
+    "id": 22,
+    "price": 8.50,
+    "dish": "Croque geitenkaas"
+  },
+  {
+    "id": 23,
+    "price": 14.00,
+    "dish": "Toast kannibaal"
+  },
+  {
+    "id": 24,
+    "price": 9.50,
+    "dish": "Club kip"
+  }
+]

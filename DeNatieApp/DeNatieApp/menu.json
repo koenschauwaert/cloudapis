@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id": 1,
+    "price": 5.80,
+    "dish": "Dag soep"
+  },
+  {
+    "id": 2,
+    "price": 15.50,
+    "dish": "Steak tartaar"
+  },
+  {
+    "id": 3,
+    "price": 19.00,
+    "dish": "Friet met rundsstoverij"
+  },
+  {
+    "id": 4,
+    "price": 24.50,
+    "dish": "Zwezerik met grijze garnaal"
+  },
+  {
+    "id": 5,
+    "price": 25.50,
+    "dish": "Entrecôte met komkommer, kropsla, bearnaise en friet"
+  },
+  {
+    "id": 6,
+    "price": 9.00,
+    "dish": "Damme blance"
+  },
+  {
+    "id": 7,
+    "price": 12.50,
+    "dish": "Kazen Van Tricht"
+  }
+]
