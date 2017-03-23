@@ -1,5 +1,11 @@
 # GITHUB FOR XAMARIN ALLIANCE CHALLENGE
 
+### Uitleg diverse mappen/projecten:
+De nieuwste en meest werkende versie is:
+[XamarinAlliance_Koen](https://github.com/koenschauwaert/cloudapis/tree/master/XamarinAlliance_Koen/Challenge%201/src/XamarinAlliance)
+
+De rest zijn probeersels/testen.
+
 ### Problemen etc.:
 1. Visual Studio icm. Xamarin is erg langzaam;
 2. Builden duurt lang;
